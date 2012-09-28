@@ -13,8 +13,8 @@
 /**
  * Defines the path where this Application is installed
  */
-var __BASE_URL__ = '/PulawJS/mobile';
-var __BASE__ = '/PulawJS/mobile/application';
+var __BASE_URL__ = '/mobile';
+var __BASE__ = '/mobile/application';
 
 // Change the paths of the folders at your own risk
 requirejs.config({
